@@ -1,3 +1,14 @@
 {
-  "books": []
+  "books": [
+    {
+      "id": "ac72",
+      "title": "Harru",
+      "image": "https://picsum.photos/seed/Harru/300/200"
+    },
+    {
+      "id": "dc3c",
+      "title": "Harry",
+      "image": "https://images.unsplash.com/photo-1618944847828-82e943c3bdb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NDk1NTN8MHwxfHNlYXJjaHwxfHxIYXJyeXxlbnwwfHx8fDE3MDUwMDM5Njl8MA&ixlib=rb-4.0.3&q=80&w=200"
+    }
+  ]
 }
