@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "7.6.0",
+    "@reduxjs/toolkit": "2.0.1",
+    "axios": "1.6.5",
+    "classnames": "2.5.1",
+    "json-server": "1.0.0-alpha.22",
+    "react-icons": "4.6.0"
+  }
+}
