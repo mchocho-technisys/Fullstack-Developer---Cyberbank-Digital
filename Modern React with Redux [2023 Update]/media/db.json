@@ -1,34 +1,5 @@
 {
-  "users": [
-    {
-      "name": "Victoria Hettinger",
-      "id": 1
-    },
-    {
-      "name": "Ruth Hettinger",
-      "id": 2
-    },
-    {
-      "name": "Arthur Mertz Jr.",
-      "id": 3
-    }
-  ],
-  "albums": [
-    {
-      "id": 10,
-      "title": "Test",
-      "userId": 1
-    },
-    {
-      "title": "Bespoke Soft Chair",
-      "userId": 1,
-      "id": 11
-    },
-    {
-      "title": "Unbranded Cotton Gloves",
-      "userId": 1,
-      "id": 12
-    }
-  ],
+  "users": [],
+  "albums": [],
   "photos": []
 }

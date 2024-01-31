@@ -26,9 +26,11 @@ function AlbumList({ user }) {
 
   return (
     <div>
-      <div>
-        <p>Albums By {user.name}</p>
-        <Button onClick={handleAddAlbum}>+ Add Album</Button>
+      <div className="m-2 flex flex-row items-center justify-between">
+        <h3 className="text-lg font-bold">Albums By {user.name}</h3>
+        <Button loading={results.isLoading} onClick={handleAddAlbum}>
+          + Add Album
+        </Button>
       </div>
       {content}
     </div>
